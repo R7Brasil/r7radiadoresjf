@@ -1,0 +1,85 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>R7 Radiadores | Especialistas em Arrefecimento</title>
+<meta name="description" content="Especialistas em radiadores, intercoolers e arrefecimento automotivo em Juiz de Fora. Atendimento rápido, garantia e serviços profissionais.">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:'Poppins',sans-serif;background:#0b1220;color:#e2e8f0}
+header{background:linear-gradient(90deg,#020617,#0f172a);padding:60px 20px;text-align:center}
+header h1{color:#22c55e;margin:0;font-size:36px}
+header p{margin:10px 0;color:#94a3b8;font-size:16px}
+.container{max-width:1100px;margin:auto;padding:20px}
+.card{background:#020617;border-radius:16px;padding:25px;margin-bottom:20px;box-shadow:0 10px 25px rgba(0,0,0,0.3)}
+h2{color:#38bdf8;margin-bottom:10px}
+ul{padding-left:20px}
+.btn{display:inline-block;background:#22c55e;color:#000;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:600;margin-top:10px}
+.btn2{background:#38bdf8}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}
+.highlight{color:#22c55e;font-weight:bold}
+.footer{background:#020617;text-align:center;padding:20px;font-size:14px;color:#94a3b8}
+.floating{position:fixed;bottom:20px;right:20px;background:#22c55e;color:#000;padding:15px 18px;border-radius:50px;text-decoration:none;font-weight:bold;box-shadow:0 5px 20px rgba(0,0,0,0.4)}
+</style>
+</head>
+<body><header>
+<h1>Auto Center R7 Radiadores e Intercoolers</h1>
+<p>Especialistas em radiadores • Intercoolers • Sistemas de arrefecimento</p>
+<p class="highlight">🚗 Evite prejuízo com superaquecimento – resolva hoje</p>
+<a class="btn" href="https://wa.me/5532991449840">Falar no WhatsApp Agora</a>
+</header><div class="container"><div class="card">
+<h2>🚀 Por que escolher a R7?</h2>
+<div class="grid">
+<div>✔ Atendimento rápido e emergencial</div>
+<div>✔ Equipamentos modernos e precisão técnica</div>
+<div>✔ Garantia real nos serviços</div>
+<div>✔ Especialistas em linha leve e pesada</div>
+</div>
+</div><div class="card">
+<h2>🛠️ Produtos</h2>
+<div class="grid">
+<div>Radiadores</div>
+<div>Intercoolers</div>
+<div>Condensadores</div>
+<div>Resfriadores de óleo</div>
+<div>Trocadores de calor</div>
+<div>Reservatórios</div>
+</div>
+</div><div class="card">
+<h2>🔧 Serviços Profissionais</h2>
+<ul>
+<li>Limpeza completa (Flushing)</li>
+<li>Teste de pressão e vazamento</li>
+<li>Solda especializada (TIG/MIG/Alumínio)</li>
+<li>Recuperação de radiadores</li>
+<li>Pintura técnica profissional</li>
+<li>Manutenção preventiva completa</li>
+</ul>
+</div><div class="card">
+<h2>📊 Problemas que resolvemos</h2>
+<ul>
+<li>Superaquecimento do motor</li>
+<li>Vazamentos de água ou óleo</li>
+<li>Radiador entupido ou corroído</li>
+<li>Perda de potência em turbo/intercooler</li>
+</ul>
+</div><div class="card">
+<h2>💬 Depoimentos</h2>
+<p>"Serviço rápido e resolveu meu problema no mesmo dia."</p>
+<p>"Melhor oficina de radiadores da região!"</p>
+<p>"Atendimento profissional e preço justo."</p>
+</div><div class="card">
+<h2>📍 Localização</h2>
+<p><strong>Rua Professora Helena Antipoff, 205 - Benfica - Juiz de Fora/MG</strong></p>
+<iframe src="https://maps.google.com/maps?q=Rua%20Professora%20Helena%20Antipoff%20205%20Juiz%20de%20Fora&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="250" style="border:0;border-radius:10px"></iframe>
+<a class="btn2 btn" href="https://maps.app.goo.gl/xTtqGUGzkB5D3ws3A">Como Chegar</a>
+</div><div class="card" style="text-align:center">
+<h2>📅 Agende Agora</h2>
+<p class="highlight">Não espere o motor fundir. Fale com a gente agora.</p>
+<a class="btn" href="https://wa.me/5532991449840">Chamar no WhatsApp</a>
+</div></div><a class="floating" href="https://wa.me/5532991449840">WhatsApp</a>
+
+<div class="footer">
+© 2026 R7 Radiadores • Todos os direitos reservados
+</div></body>
+</html>
